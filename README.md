@@ -3,6 +3,12 @@ My first rep on github, in the context of my IBM Coursera course on Data Science
 The specific course is the Applied Data Science Capstone
 So I'll be adding content here as I progress
 
+Update 15 June 2020: Coursera Data Science Capstone Project
+
+Final Report, Presentation, and Notebooks now uploaded
+
+Final approach is in the 'V2' notebook (V1 = K-Means on other version of the dataset, less effective)
+
 Update 12 June 2020: Coursera course - Capstone project
 Title
 Comparing commuter belt locations around Brussels, Belgium
